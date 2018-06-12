@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Test()
+comment1.params=
+comment1.target=void\ textAusgabe()
+comment2.params=name\ x\ y
+comment2.target=void\ knotenEinfuegen(java.lang.String,\ int,\ int)
+comment3.params=anfang\ ende\ abstand
+comment3.target=void\ kanteEinfuegen(java.lang.String,\ java.lang.String,\ int)
+comment4.params=start\ ziel\ generationen
+comment4.target=void\ evoltorischeWegesuche(java.lang.String,\ java.lang.String,\ int)
+comment5.params=anfang\ ende
+comment5.target=void\ wegSuchen(java.lang.String,\ java.lang.String)
+numComments=6

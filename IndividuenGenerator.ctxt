@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IndividuenGenerator
+comment1.params=
+comment1.target=IndividuenGenerator()
+comment2.params=start\ ziel
+comment2.target=java.util.LinkedList\ gibZufaelligesIndividuum(Knoten,\ Knoten)
+numComments=3

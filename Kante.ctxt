@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=knoten1\ knoten2\ gewicht
+comment0.target=Kante(Knoten,\ Knoten,\ int)
+comment1.params=
+comment1.target=int\ gibGewicht()
+comment2.params=farbe
+comment2.target=void\ setzeFarbe(java.lang.String)
+comment3.params=knoten
+comment3.target=Knoten\ gibAnderenKnoten(Knoten)
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Evaluator
+comment1.params=
+comment1.target=Evaluator()
+comment2.params=individuum
+comment2.target=int\ evaluiere(java.util.LinkedList)
+comment3.params=individuum
+comment3.target=int\ berechneLaenge(java.util.LinkedList)
+numComments=4
